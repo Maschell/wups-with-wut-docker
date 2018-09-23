@@ -1,4 +1,4 @@
-FROM wups/core:0.1
+FROM wups/core:latest
 
 MAINTAINER Maschell <maschell@gmx.de>
 
